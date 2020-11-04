@@ -7,8 +7,8 @@
 - I´ve got a long way to go, but am excited to start the path. 
 
 ## Contact:
-[![Twitter](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)][twitter]
-[<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][insta]
+![Twitter](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>{https://www.instagram.com/jacob_fr_gt/}
 [<img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>][snap]
 [<img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][link]
