@@ -3,16 +3,12 @@
 - 💻 I would like to work in: Artificial Inteligence or Cyber Security.
 - 🖥️ Favorite language: Python!
 - 📱 Favorite OS: Windows.
-- *¡Guatemala!*🇬🇹
 ## Hola, yo soy JacobGT. Actualmente soy un estudiante en Ingeniería en Sistemas y Ciencas de la Computacion.
 - 💻 Me gustaría trabajar en: Inteligencia Artificial o Ciber Seguridad.
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
-- *¡Guatemala!*🇬🇹
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
-
-Fun Fact: I am more of a dog person!
-
 ![dogCoding2](https://user-images.githubusercontent.com/42787753/98130453-e36a3380-1e7f-11eb-86de-258a30853e7f.gif)
 ![dogCoding](https://user-images.githubusercontent.com/42787753/98130510-f0872280-1e7f-11eb-880d-c9ffd439f073.gif)
