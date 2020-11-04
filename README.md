@@ -7,12 +7,12 @@
 - I´ve got a long way to go, but am excited to start the path. 
 
 ## Contact:
-![Twitter Follow](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+[![Twitter](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)][twitter]
+[<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][insta]
+[<img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>][snap]
+[<img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][link]
+[<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stack]
 
 ## Languages I know and use:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
@@ -30,3 +30,10 @@
 
 ![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
 ![dogCoding](https://user-images.githubusercontent.com/42787753/98130510-f0872280-1e7f-11eb-880d-c9ffd439f073.gif)
+
+[twitter]:
+[insta]: https://www.instagram.com/jacob_fr_gt/
+[snap]:
+[youtube]:
+[link]:
+[stack]:
