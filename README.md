@@ -12,7 +12,11 @@
 <img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
 [LinkedIn]{https://www.linkedin.com/in/jacob-flores-rueda-5460851b4/}
+
+
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 ## Languages I know and use:
