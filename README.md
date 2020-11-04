@@ -8,7 +8,9 @@
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
 
-[![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT)](https://github.com/anuraghazra/github-readme-stats)
+![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT&show_icons=true&theme=radical)
+[![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT)](https://github.com/JacobGT/github-readme-stats)
+![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT&count_private=true)
+![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT&show_icons=true)
 ![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
-
 ![dogCoding](https://user-images.githubusercontent.com/42787753/98130510-f0872280-1e7f-11eb-880d-c9ffd439f073.gif)
