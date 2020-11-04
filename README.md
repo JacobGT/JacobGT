@@ -1,9 +1,10 @@
 ![eatSleepCodeRepeat](https://user-images.githubusercontent.com/42787753/98130260-a9992d00-1e7f-11eb-9db7-40eeb78115da.gif)
-## Current student on Ingeniería en Sistemas y Ciencas de la Computacio (computer science)!
+## Current student on Ingeniería en Sistemas y Ciencas de la Computacion (Computer s+Science)!
 - 💻 I would like to work in: Artificial Inteligence or Cyber Security.
 - 🖥️ Favorite language: Python!
 - 📱 Favorite OS: Windows.
-- 🇬🇹 I am from Guatemala and also speak spanish.
+- 🇬🇹 I am from Guatemala and speak spanish.
+- I´ve got a long way to go, but am excited to start the path. 
 
 ## Contact:
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
@@ -14,7 +15,7 @@
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 ## Languages I know and use:
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
 ## Programming hardware I use:
 <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
