@@ -3,10 +3,13 @@
 - 💻 I would like to work in: Artificial Inteligence or Cyber Security.
 - 🖥️ Favorite language: Python!
 - 📱 Favorite OS: Windows.
-## Hola, yo soy JacobGT. Actualmente soy un estudiante en Ingeniería en Sistemas y Ciencas de la Computacion. *¡Guatemala!*🇬🇹
+- *¡Guatemala!*🇬🇹
+## Hola, yo soy JacobGT. Actualmente soy un estudiante en Ingeniería en Sistemas y Ciencas de la Computacion.
 - 💻 Me gustaría trabajar en: Inteligencia Artificial o Ciber Seguridad.
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
+- *¡Guatemala!*🇬🇹
+
 ![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
 
 Fun Fact: I am more of a dog person!
