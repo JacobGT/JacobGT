@@ -14,14 +14,15 @@
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="
+https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
-https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white
 
-https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white
-https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white
-https://img.shields.io/badge/windows-hp%20pavilion_gaming_15%20-vB900.svg?&style=for-the-badge&logo=windows&logoColor=white
+<img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/><img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/><img src="https://img.shields.io/badge/windows-hp%20pavilion_gaming_15%20-vB900.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+
+
+
 
 <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
