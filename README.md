@@ -8,9 +8,9 @@
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-<img src="https://img.shields.io/badge/<jacob_fr_gt>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/<jacobfr_gt>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
-<img src="https://img.shields.io/badge/<Jacob Flores>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
