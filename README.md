@@ -8,7 +8,7 @@
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![JacobGT's github stats](https://github-readme-stats.vercel.app/api?username=JacobGT)](https://github.com/anuraghazra/github-readme-stats)
 ![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
 ![dogCoding2](https://user-images.githubusercontent.com/42787753/98130453-e36a3380-1e7f-11eb-86de-258a30853e7f.gif)
 ![dogCoding](https://user-images.githubusercontent.com/42787753/98130510-f0872280-1e7f-11eb-880d-c9ffd439f073.gif)
