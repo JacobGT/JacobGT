@@ -1,14 +1,13 @@
 ![eatSleepCodeRepeat](https://user-images.githubusercontent.com/42787753/98130260-a9992d00-1e7f-11eb-9db7-40eeb78115da.gif)
-## Current student on computer science!
+## Current student on Ingeniería en Sistemas y Ciencas de la Computacio (computer science)!
 - 💻 I would like to work in: Artificial Inteligence or Cyber Security.
 - 🖥️ Favorite language: Python!
 - 📱 Favorite OS: Windows.
-## Estudiante en Ingeniería en Sistemas y Ciencas de la Computacion.
-- 💻 Me gustaría trabajar en: Inteligencia Artificial o Ciber Seguridad.
-- 🖥️ Lenguaje favorito: Python!
-- 📱 OS Favorito: Windows.
+- 🇬🇹 I am from Guatemala and also speak spanish.
+
+## Contact:
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jacob_fr_gt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> [https://www.instagram.com/jacob_fr_gt/]
 <img src="https://img.shields.io/badge/jacobfr_gt%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jacob Flores%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
