@@ -1,7 +1,4 @@
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="360" height="360" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4kzug3"></iframe></div><p><a href="https://imgflip.com/gif/4kzug3">via Imgflip</a></p></div>
-
-<iframe src="https://giphy.com/embed/LmNwrBhejkK9EFP504" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504">via GIPHY</a></p>
-
+![eatSleepCodeRepeat](https://user-images.githubusercontent.com/42787753/98130260-a9992d00-1e7f-11eb-9db7-40eeb78115da.gif)
 ## Hi! I am JacobGT. I am a current student on computer science! 
 💻 - I would like to work in: Artificial Inteligence or Cyber Security.
 🖥️ - Favorite language: Python!
@@ -10,5 +7,10 @@
 💻 - Me gustaría trabajar en: Inteligencia Artificial o Ciber Seguridad.
 🖥️ - Lenguaje favorito: Python!
 📱 - OS Favorito: Windows.
-<iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dogs-look-ridiculous-SwImQhtiNA7io">via GIPHY</a></p>
-https://giphy.com/gifs/Ahb9gSd3WZZw9mHycV/html5
+![catCoding](https://user-images.githubusercontent.com/42787753/98130368-ca618280-1e7f-11eb-8ae7-ff5e4234d812.gif)
+Fun Fact: I am more of a dog person!
+![dogCoding2](https://user-images.githubusercontent.com/42787753/98130453-e36a3380-1e7f-11eb-86de-258a30853e7f.gif)
+![dogCoding](https://user-images.githubusercontent.com/42787753/98130510-f0872280-1e7f-11eb-880d-c9ffd439f073.gif)
+![madDogCoding](https://user-images.githubusercontent.com/42787753/98130543-fb41b780-1e7f-11eb-8411-206ba8979745.gif)
+![banderaGuatemala](https://user-images.githubusercontent.com/42787753/98130997-799e5980-1e80-11eb-93e5-cf74fdec729b.gif)
+¡Guatemala!
