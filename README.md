@@ -8,13 +8,12 @@
 - 🖥️ Lenguaje favorito: Python!
 - 📱 OS Favorito: Windows.
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jacob_FR_GT?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
-<img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/<jacob_fr_gt>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/<jacobfr_gt>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
+<img src="https://img.shields.io/badge/<Jacob Flores>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
+
 
 https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white
