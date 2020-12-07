@@ -1,5 +1,5 @@
 ![programingGif](https://user-images.githubusercontent.com/42787753/98159503-57b5ce80-1ea2-11eb-9b9f-e22c1723817f.gif)
-## Currently studying Ingeniería en Sistemas y Ciencas de la Computacion (Computer Science)
+## Currently studying Ingeniería en Sistemas y Ciencas de la Computacion (Computer Science & Engineering)
 - 💻 I would like to work in: Artificial Inteligence or Cyber Security.
 - 🖥️ Favorite language: Python!
 - 📱 Favorite OS: Windows.
