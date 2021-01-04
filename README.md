@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-## Where I spend my free time gaming:
+## Where I spend my free time gaming: (I love gaming)
 <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>   <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 
 ![eatSleepCodeRepeat](https://user-images.githubusercontent.com/42787753/98130260-a9992d00-1e7f-11eb-9db7-40eeb78115da.gif)
